@@ -12,6 +12,8 @@
 -->
 
 
-We've converted and curated a rich collection of **annotation** files from the ***OpenPecha*** project into the ***STAM format***, accessing annotations more accessible and versatile than ever before.
+Under construction! 
 
-To use it effectively, here our tool [stam_annotator](https://github.com/OpenPecha/stam_annotator), the documentation is available in its page itself.
+We are migrating ***OpenPecha-data*** etexts and annotation in [STAM](https://github.com/annotation/stam) format.
+
+Check out the ongoing work here: [stam_annotator](https://github.com/OpenPecha/stam_annotator).
